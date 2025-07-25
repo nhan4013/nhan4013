@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I’m Xuân Nhân 👋
 
 <!--
 **nhan4013/nhan4013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hello, I’m Nhân 👋<br>I’m a full-stack developer with 2 years of experience focusing on building robust APIs and microservices. Skilled in Python, Java, and React, I specialize in designing scalable server-side applications and efficient database solutions. I hold the AWS Solutions Architect Associate certification, demonstrating my expertise in cloud architecture. Recently, I contributed to an SAP ERP integration project for a manufacturing company, enhancing data processing pipelines and reporting capabilities.<br>🔧 Backend Development: RESTful APIs, microservices, and database design.<br>💻 Tech Stack: Python, Java, React.<br>☁️ Cloud: AWS (Solutions Architect Associate certified).<br>📊 SAP ERP: Integration of modules, data pipelines, and reporting tools for a manufacturing firm.<br>Feel free to explore my work below or get in touch if you’d like to collaborate!
+<br>I’m a full-stack developer with 2 years of experience focusing on building robust APIs and microservices. Skilled in Python, Java, and React, I specialize in designing scalable server-side applications and efficient database solutions. I hold the AWS Solutions Architect Associate certification, demonstrating my expertise in cloud architecture. Recently, I contributed to an SAP ERP integration project for a manufacturing company, enhancing data processing pipelines and reporting capabilities.<br>🔧 Backend Development: RESTful APIs, microservices, and database design.<br>💻 Tech Stack: Python, Java, React.<br>☁️ Cloud: AWS (Solutions Architect Associate certified).<br>📊 SAP ERP: Integration of modules, data pipelines, and reporting tools for a manufacturing firm.<br>Feel free to explore my work below or get in touch if you’d like to collaborate!
 
 
 ## 🌐 Socials:
