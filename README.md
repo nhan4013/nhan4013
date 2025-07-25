@@ -44,7 +44,7 @@ Here are some ideas to get you started:
         <img src="https://api.daily.dev/devcards/v2/DAi2NWkXOFdAjhDdVzOdg.png?r=eai&type=default" width="300" alt="Phạm Xuân Nhân's Dev Card"/>
       </a>
     </td>
-  </tr>
+  </tr>  
 </table>
 
 
@@ -54,3 +54,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=nhan4013&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhan4013/nhan4013/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhan4013/nhan4013/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nhan4013/nhan4013/output/pacman-contribution-graph.svg">
+</picture>
