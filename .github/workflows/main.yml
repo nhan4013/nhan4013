@@ -6,9 +6,19 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "* */12 * * *"
 
 jobs:
+  generate:
+      permissions:
+        contents: write
+      runs-on: ubuntu-latest
+      timeout-minutes: 5
+      steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
   devcard:
     runs-on: ubuntu-latest
     steps:
@@ -16,3 +26,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+
